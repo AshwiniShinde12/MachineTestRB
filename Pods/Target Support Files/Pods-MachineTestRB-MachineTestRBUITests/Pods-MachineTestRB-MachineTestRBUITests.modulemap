@@ -1,0 +1,6 @@
+framework module Pods_MachineTestRB_MachineTestRBUITests {
+  umbrella header "Pods-MachineTestRB-MachineTestRBUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
